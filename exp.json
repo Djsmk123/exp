@@ -1,49 +1,47 @@
 {
-  "exp":[
-    {
-      "company":"Google Developer Student Clubs-ADGITM",
-      "role": "Tech Team",
-      "type":"Part-Time"
-      "dt":"Sep 2021 -Jul 2022",
-      "ts":"11 months"
-    },
-    {
-      "company":"Itmtb Technologies Private Limited",
-      "role": "Flutter Developer Intern",
-      "dt":"Nov 2021 -Apr 2022",
-       "type":"Part-Time"
-      "ts":"6 months"
-    },
-    {
-      "company":"LetsUpgrade",
-      "role": "Human Resouces Intern",
-      "dt":"Oct 2021 -Nov 2022",
-       "type":"Part-Time"
-      "ts":"1 months"
-    },
-     {
-      "company":"Google Developer Student Clubs-ADGITM",
-      "role": "Mobile Application Developer",
-      "type":"Part-Time"
-      "dt":"Aug 2022 -Present",
-      "ts":"1 months"
-    },
-    ],
-    "vol":[
-      {
-      "company":"Google Developer Student Clubs-ADGITM",
-      "role": "Android Study Jams: Campus Faciliator",
-      "type":"Part-Time"
-      "dt":"Nov 2021 -Jan 2022",
-      "ts":"3 months"
-    },
-    {
-      "company":"Google Developer Student Clubs-ADGITM",
-      "role": "Flutter Festival: Campus Faciliator",
-      "type":"Part-Time"
-      "dt":"Feb 2022 -App 2022 ",
-      "ts":"3 months"
-    },
-    ]
-      
+	"exp": [{
+			"company": "Google Developer Student Clubs-ADGITM",
+			"role": "Tech Team",
+			"type": "Part-Time",
+			"dt": "Sep 2021 -Jul 2022",
+			"ts": "11 months"
+		},
+		{
+			"company": "Itmtb Technologies Private Limited",
+			"role": "Flutter Developer Intern",
+			"dt": "Nov 2021 -Apr 2022",
+			"type": "Part-Time",
+			"ts": "6 months"
+		},
+		{
+			"company": "LetsUpgrade",
+			"role": "Human Resouces Intern",
+			"dt": "Oct 2021 -Nov 2022",
+			"type": "Part-Time",
+			"ts": "1 months"
+		},
+		{
+			"company": "Google Developer Student Clubs-ADGITM",
+			"role": "Mobile Application Developer",
+			"type": "Part-Time",
+			"dt": "Aug 2022 -Present",
+			"ts": "1 months"
+		}
+	],
+	"vol": [{
+			"company": "Google Developer Student Clubs-ADGITM",
+			"role": "Android Study Jams: Campus Faciliator",
+			"type": "Part-Time",
+			"dt": "Nov 2021 -Jan 2022",
+			"ts": "3 months"
+		},
+		{
+			"company": "Google Developer Student Clubs-ADGITM",
+			"role": "Flutter Festival: Campus Faciliator",
+			"type": "Part-Time",
+			"dt": "Feb 2022 -App 2022 ",
+			"ts": "3 months"
+		}
+	]
+
 }
