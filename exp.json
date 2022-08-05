@@ -29,7 +29,7 @@
       "ts":"1 months"
     },
     ],
-    "vol":{
+    "vol":[
       {
       "company":"Google Developer Student Clubs-ADGITM",
       "role": "Android Study Jams: Campus Faciliator",
@@ -44,7 +44,6 @@
       "dt":"Feb 2022 -App 2022 ",
       "ts":"3 months"
     },
-    }
+    ]
       
-    }
 }
